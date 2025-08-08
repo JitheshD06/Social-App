@@ -33,12 +33,12 @@ React’s **Single Page Application** model loads the app **once** and updates c
 
 ---
 
-## To run
+## 💡 To run
 
 npm run dev
 ---
 
-## Open in Browser
+## 💡 Open in Browser
 
 http://localhost:3000
 
