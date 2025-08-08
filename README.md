@@ -33,9 +33,18 @@ React’s **Single Page Application** model loads the app **once** and updates c
 
 ---
 
+## Future Enhancements
+
+✏️ Edit existing posts
+❤️ Like & comment system
+🔐 User authentication
+
+---
+
 ## 💡 To run
 
 npm run dev
+
 ---
 
 ## 💡 Open in Browser
