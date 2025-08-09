@@ -22,7 +22,11 @@ React’s **Single Page Application** model loads the app **once** and updates c
 - 📉 **Lower server requests**, boosting scalability  
 
 ---
+## 🚀 Project Structure
 
+<img width="253" height="406" alt="image" src="https://github.com/user-attachments/assets/787bae1e-f891-4c2d-be2a-f1f69e18aded" />
+
+---
 ## 🛠️ Tech Stack  
 
 | Layer      | Technology           |  
